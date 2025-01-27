@@ -83,7 +83,7 @@ https://github.com/user-attachments/assets/e94688dc-bbd3-4abb-ac4d-e98f3e71d113
 
 
 ### Overview 
-I worked with claude.ai and Figma to build this design, however it is not fully functional yet in the ways I woudl hope. With it being more static than responsive on multiple ends. I had hoped to have tabs embedded within the images but I couldnt get it to apply properly.
+I worked with claude.ai and Figma to build this design, however it is not fully functional yet in the ways I would hope. With it being more static than responsive on multiple ends. I had hoped to have tabs embedded within the images but I couldnt get it to apply properly.
 ### Users
 People looking to learn more about me as a person and my background.
 ### Learnings 
